@@ -111,8 +111,8 @@
   border-color: #4285F4;
 }
 
-.facebookButton:hover:not(:disabled) {
-  border-color: #1877F2;
+.facebookButton .socialIcon {
+  color: #1877F2;
 }
 
 .socialIcon {
