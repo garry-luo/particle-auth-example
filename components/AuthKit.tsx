@@ -35,7 +35,7 @@ export const ParticleAuthkit = ({ children }: React.PropsWithChildren) => {
         // 錢包設定
         wallet: {
           themeType: "dark",
-          visible: true,
+          visible: false,
           customStyle: {
             supportUIModeSwitch: true,
             supportLanguageSwitch: false,
